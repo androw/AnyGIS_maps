@@ -1,9 +1,6 @@
 [Name]
 Water - Volga and Kama rivers 
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Local_River_Volga/{x}/{y}/{z}
-
 [URL direct]
 https://gmap.camapka.ru/lotsia/Z{z}/{y}/{x}.png
 

@@ -1,9 +1,6 @@
 [Name]
 Satellites - ESRI Clarity
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Ersi_Satellite_Clarity/{x}/{y}/{z}
-
 [URL direct]
 https://clarity.maptiles.arcgis.com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}?blankTile=false
 

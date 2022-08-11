@@ -1,9 +1,6 @@
 [Name]
 City - OSM Mapy.cz - Base
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_Eu_Czech_base/{x}/{y}/{z}
-
 [URL direct]
 https://m{s}.mapserver.mapy.cz/base-m/{z}-{x}-{y}
 

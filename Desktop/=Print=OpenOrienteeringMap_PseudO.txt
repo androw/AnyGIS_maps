@@ -1,9 +1,6 @@
 [Name]
 Print - OSM OpenOrienteeringMap PseudO
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Print_OpenOrienteeringMap_pseudo/{x}/{y}/{z}
-
 [URL direct]
 https://tiler{s}.oobrien.com/oterrain_global/{z}/{x}/{y}.png
 

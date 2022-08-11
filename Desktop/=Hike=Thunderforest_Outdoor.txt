@@ -1,9 +1,6 @@
 [Name]
 Hike - OSM Thunderforest Outdoor
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Osm_Outdoors/{x}/{y}/{z}
-
 [URL direct 256px]
 http://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38
 

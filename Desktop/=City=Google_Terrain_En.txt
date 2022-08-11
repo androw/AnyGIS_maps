@@ -1,9 +1,6 @@
 [Name]
 City - Google - Terrain
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Google_Ter_EN_SD/{x}/{y}/{z}
-
 [URL direct 256px]
 http://mt{s}.google.com/vt/lyrs=t@130,r@206000000&hl=ru&x={x}&y={y}&z={z}&s=Galileo&scale=1&hl=en
 

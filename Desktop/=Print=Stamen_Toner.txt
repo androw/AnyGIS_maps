@@ -1,9 +1,6 @@
 [Name]
 Print - OSM Stamen Toner
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Print_Toner/{x}/{y}/{z}
-
 [URL direct]
 http://{s}.tile.stamen.com/toner/{z}/{x}/{y}.png
 

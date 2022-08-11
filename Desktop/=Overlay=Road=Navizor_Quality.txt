@@ -1,9 +1,6 @@
 [Name]
 Overlay - Road - Navizor - Roads quality
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Navizor/{x}/{y}/{z}
-
 [URL direct]
 http://navizor.com:8080/fg/{z}/{x}/{y}.png
 

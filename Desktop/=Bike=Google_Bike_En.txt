@@ -1,9 +1,6 @@
 [Name]
 Bike - Google Bike
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Google_Bike_EN/{x}/{y}/{z}
-
 [URL direct 256px]
 http://mt{s}.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1
 

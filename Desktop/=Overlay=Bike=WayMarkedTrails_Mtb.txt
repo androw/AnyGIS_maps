@@ -1,9 +1,6 @@
 [Name]
 Overlay - Bike - OSM WayMarkedTrails - MTB
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Tracks_WayMarkeredTrails_MTB/{x}/{y}/{z}
-
 [URL direct]
 http://tile.waymarkedtrails.org/mtb/{z}/{x}/{y}.png
 

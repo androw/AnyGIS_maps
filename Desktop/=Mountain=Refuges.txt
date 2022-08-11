@@ -1,9 +1,6 @@
 [Name]
 Mountain - OSM Refuges - Mountain Shelters
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Osm_Refuges/{x}/{y}/{z}
-
 [URL direct]
 https://maps.refuges.info/hiking/{z}/{x}/{y}.png
 

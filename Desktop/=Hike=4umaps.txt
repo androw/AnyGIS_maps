@@ -1,9 +1,6 @@
 [Name]
 Hike - OSM 4U maps
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Osm_4umaps/{x}/{y}/{z}
-
 [URL direct]
 https://tileserver.4umaps.com/{z}/{x}/{y}.png
 

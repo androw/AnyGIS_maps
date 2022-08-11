@@ -1,9 +1,6 @@
 [Name]
 Hike - O-Sport
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Local_Osport/{x}/{y}/{z}
-
 [URL direct]
 https://tiles.nakarte.me/osport/{z}/{x}/{-y}
 

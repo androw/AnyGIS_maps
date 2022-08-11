@@ -1,9 +1,6 @@
 [Name]
 Overlay - Road - Yandex - Traffic (converted)
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Yandex_traffic_layer/{x}/{y}/{z}
-
 [URL direct 256px]
 https://core-jams-rdr.maps.yandex.net/1.1/tiles?trf&l=trf&lang=ru_RU&x={yandexX}&y={yandexY}&z={z}&scale=1&tm={timeStamp}
 

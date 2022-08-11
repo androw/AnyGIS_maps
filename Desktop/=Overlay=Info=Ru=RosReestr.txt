@@ -1,9 +1,6 @@
 [Name]
 Overlay - Info - RosReest.ru - Cadaster
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Rosreestr_kadaster/{x}/{y}/{z}
-
 [URL direct]
 https://pkk.rosreestr.ru/arcgis/rest/services/PKK6/Cadastre/MapServer/export?layers=show%3A30%2C21%2C17%2C8%2C0&dpi=512&format=PNG32&bboxSR=102100&imageSR=102100&size=1024%2C1024&transparent=true&f=image&bbox={bbox}
 

@@ -1,9 +1,6 @@
 [Name]
 Hike - USGS National Map - Topo
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_US_USGS_Topo/{x}/{y}/{z}
-
 [URL direct]
 http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}
 

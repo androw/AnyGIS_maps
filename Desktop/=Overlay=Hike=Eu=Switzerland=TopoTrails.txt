@@ -1,9 +1,6 @@
 [Name]
 Overlay - Hike - SwissTopo - Trails
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_Eu_Swiss_SwissTrailsLayer/{x}/{y}/{z}
-
 [URL direct]
 https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.swisstlm3d-wanderwege/default/current/3857/{z}/{x}/{y}.png
 

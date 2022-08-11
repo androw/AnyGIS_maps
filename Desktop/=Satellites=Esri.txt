@@ -1,9 +1,6 @@
 [Name]
 Satellites - ESRI
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Ersi_Satellite/{x}/{y}/{z}
-
 [URL direct]
 https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}
 

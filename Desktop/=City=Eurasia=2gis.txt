@@ -1,9 +1,6 @@
 [Name]
 City - 2Gis
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_Ru_2gis/{x}/{y}/{z}
-
 [URL direct 256px]
 https://tile{s}.maps.2gis.com/tiles?x={x}&y={y}&z={z}&r=g&ts=online_sd
 

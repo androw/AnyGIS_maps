@@ -1,9 +1,6 @@
 [Name]
 Overlay - Info - OpenWeatherMap - Precipitation
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/OpenWeatherMap_Precipit/{x}/{y}/{z}
-
 [URL direct]
 http://{s}.maps.owm.io:8099/57456d1237fb4e01009cbb17/{z}/{x}/{y}?hash=042a4b4c8ec6bc8392aabf46fa91003c
 

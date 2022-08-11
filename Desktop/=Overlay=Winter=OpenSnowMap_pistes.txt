@@ -1,9 +1,6 @@
 [Name]
 Overlay - Winter - OSM OpenSnowMap - Pistes
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Osm_OpenSnowMap_layer/{x}/{y}/{z}
-
 [URL direct]
 http://www.opensnowmap.org/pistes/{z}/{x}/{y}.png
 

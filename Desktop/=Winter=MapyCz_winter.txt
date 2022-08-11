@@ -1,9 +1,6 @@
 [Name]
 Winter - OSM Czech - Mapy.cz Winter
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_Eu_Czech_winter/{x}/{y}/{z}
-
 [URL direct]
 https://m{s}.mapserver.mapy.cz/winter-m/{z}-{x}-{y}
 

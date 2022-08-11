@@ -1,9 +1,6 @@
 [Name]
 Overlay - Water - Garmin Quickdraw - MarineImages
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Garmin_MarineImages/{x}/{y}/{z}
-
 [URL direct]
 https://downloadqdc.garmin.com/GCSProxyServlet/MarineImages/{q}.png
 

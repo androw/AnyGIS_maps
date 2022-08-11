@@ -1,9 +1,6 @@
 [Name]
 Hike - OSM OpenTopoMap.ORG
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Osm_Topo_Map/{x}/{y}/{z}
-
 [URL direct]
 https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png
 

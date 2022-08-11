@@ -1,9 +1,6 @@
 [Name]
 Overlay - Road - Yandex - Directions
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Yandex_direction_WGS84/{x}/{y}/{z}
-
 [URL direct]
 https://core-gpstiles.maps.yandex.net/tiles?style=red_combined&x={x}&y={y}&z={z}
 

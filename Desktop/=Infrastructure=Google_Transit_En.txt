@@ -1,9 +1,6 @@
 [Name]
 Infrastructure - Google Transit
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Google_Transit_EN/{x}/{y}/{z}
-
 [URL direct 256px]
 http://mt{s}.google.com/vt/lyrs=m@121,transit|vm:1&opts=r&x={x}&y={y}&z={z}&hl=en&scale=1
 

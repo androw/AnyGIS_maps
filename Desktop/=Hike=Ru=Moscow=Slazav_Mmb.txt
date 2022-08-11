@@ -1,9 +1,6 @@
 [Name]
 Hike - Slazav MMB
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Local_Slazav_Nakarte/{x}/{y}/{z}
-
 [URL direct]
 https://tiles.nakarte.me/map_podm/{z}/{x}/{-y}
 

@@ -1,9 +1,6 @@
 [Name]
 Hike - Arbalet
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Local_ArbaletMO/{x}/{y}/{z}
-
 [URL direct]
 https://tiles.nakarte.me/ArbaletMO/{z}/{x}/{-y}
 

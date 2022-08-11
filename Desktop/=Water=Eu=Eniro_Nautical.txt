@@ -1,9 +1,6 @@
 [Name]
 Water - Eniro Sjökort Nautical
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_Eu_Eniro_Nautical/{x}/{y}/{z}
-
 [URL direct]
 http://map0{s}.eniro.no/geowebcache/service/tms1.0.0/nautical/{z}/{x}/{-y}.png
 

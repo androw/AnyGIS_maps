@@ -1,9 +1,6 @@
 [Name]
 City - OSM Mapnik (OpenStreetMap.org)
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Osm_Mapnik/{x}/{y}/{z}
-
 [URL direct]
 http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
 

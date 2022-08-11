@@ -1,9 +1,6 @@
 [Name]
 Overlay - Relief - WmfLabs.org
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Hillshade_Wmflabs/{x}/{y}/{z}
-
 [URL direct]
 https://tiles.wmflabs.org/hillshading/{z}/{x}/{y}.png
 

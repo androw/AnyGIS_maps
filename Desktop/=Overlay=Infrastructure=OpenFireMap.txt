@@ -1,9 +1,6 @@
 [Name]
 Overlay - Infrastructure - OSM OpenFireMap
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/OpenFireMap/{x}/{y}/{z}
-
 [URL direct]
 http://openfiremap.org/hytiles/{z}/{x}/{y}.png
 

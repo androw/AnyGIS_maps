@@ -1,9 +1,6 @@
 [Name]
 Hike - Hitta Frilufts
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_Eu_Hitta_Frilufts/{x}/{y}/{z}
-
 [URL direct]
 http://static.hitta.se/tile/v3/4_2x/{z}/{x}/{-y}
 

@@ -1,9 +1,6 @@
 [Name]
 Hike - Ign.fr Topo
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_Eu_FranceTopo/{x}/{y}/{z}
-
 [URL direct]
 https://wxs.ign.fr/essentiels/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix={z}&TileCol={x}&TileRow={y}
 

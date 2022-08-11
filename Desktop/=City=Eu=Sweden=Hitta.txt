@@ -1,9 +1,6 @@
 [Name]
 City - Hitta
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_Eu_Hitta/{x}/{y}/{z}
-
 [URL direct]
 http://static.hitta.se/tile/v3/0_2x/{z}/{x}/{-y}
 

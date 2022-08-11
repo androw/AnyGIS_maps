@@ -1,9 +1,6 @@
 [Name]
 Hike - Adraces
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Local_Adraces/{x}/{y}/{z}
-
 [URL direct]
 https://tiles.nakarte.me/adraces/{z}/{x}/{-y}
 

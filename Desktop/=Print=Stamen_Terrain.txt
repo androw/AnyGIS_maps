@@ -1,9 +1,6 @@
 [Name]
 Print - OSM Stamen Terrain
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Print_Terrain/{x}/{y}/{z}
-
 [URL direct]
 http://{s}.tile.stamen.com/terrain/{z}/{x}/{y}.png
 

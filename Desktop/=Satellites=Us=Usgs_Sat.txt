@@ -1,9 +1,6 @@
 [Name]
 Satellites - USGS National Map - Satellite
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_US_USGS_Sat/{x}/{y}/{z}
-
 [URL direct]
 http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}
 

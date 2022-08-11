@@ -1,9 +1,6 @@
 [Name]
 Hike - Montenecro 250m
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_Eu_Montenegro/{x}/{y}/{z}
-
 [URL direct]
 https://tiles.nakarte.me/montenegro250m/{z}/{x}/{-y}
 

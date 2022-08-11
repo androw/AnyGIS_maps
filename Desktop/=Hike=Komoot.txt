@@ -1,9 +1,6 @@
 [Name]
 Hike - OSM Komoot
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Osm_Komoot/{x}/{y}/{z}
-
 [URL direct]
 http://{s}.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png
 

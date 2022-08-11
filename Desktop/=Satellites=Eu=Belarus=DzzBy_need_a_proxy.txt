@@ -1,9 +1,6 @@
 [Name]
 Satellites - Dzz.by Orthophoto (need a proxy)
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_Belarus_DDZ/{x}/{y}/{z}
-
 [URL direct]
 https://www.dzz.by/Java/proxy.jsp?https://www.dzz.by/arcgis/rest/services/georesursDDZ/Belarus_Web_Mercator_new/ImageServer/tile/{z-6}/{y}/{x}
 

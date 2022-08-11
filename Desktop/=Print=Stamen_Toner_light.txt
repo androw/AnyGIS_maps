@@ -1,9 +1,6 @@
 [Name]
 Print - OSM Stamen Toner light
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Print_Toner_lite/{x}/{y}/{z}
-
 [URL direct]
 http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png
 

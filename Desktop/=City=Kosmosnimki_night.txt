@@ -1,9 +1,6 @@
 [Name]
 City - OSM Kosmosnimki (night)
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Osm_Kosmosnimki_Night/{x}/{y}/{z}
-
 [URL direct]
 http://{s}.tile.osm.kosmosnimki.ru/night/{z}/{x}/{y}.png
 

@@ -1,9 +1,6 @@
 [Name]
 Satellites - Hitta
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Other_Eu_Hitta_sat/{x}/{y}/{z}
-
 [URL direct]
 http://static.hitta.se/tile/v3/1/{z}/{x}/{-y}
 

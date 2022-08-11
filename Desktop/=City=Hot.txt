@@ -1,9 +1,6 @@
 [Name]
 City - OSM Humanitarian
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Osm_Hot/{x}/{y}/{z}
-
 [URL direct]
 https://tile-{s}.openstreetmap.fr/hot/{z}/{x}/{y}.png
 

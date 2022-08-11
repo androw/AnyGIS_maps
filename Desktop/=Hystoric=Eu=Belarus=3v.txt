@@ -1,9 +1,6 @@
 [Name]
 Hystoric - Belarus 3 verstovaya
 
-[URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Historic_Belarus_3v/{x}/{y}/{z}
-
 [URL direct]
 https://globus.tut.by/.tiles/3v_jan20/Z{z}/{y}/{x}.jpg
 
