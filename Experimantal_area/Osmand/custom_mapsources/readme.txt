@@ -1,1 +1,0 @@
-ilarki:кидаем все в папку osmand\tiles
