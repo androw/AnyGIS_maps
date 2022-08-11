@@ -13,5 +13,5 @@ https://core-gpstiles.maps.yandex.net/tiles?style=point&x={x}&y={y}&z={z}
 [HTTP Referer]
 https://n.maps.yandex.ru/
 
-[Proection description]
+[Projection description]
 Ellipsoid

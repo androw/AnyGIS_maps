@@ -10,5 +10,5 @@ http://static.hitta.se/tile/v3/0_2x/{z}/{x}/{-y}
 [Max Zoom level]
 22
 
-[Proection description]
+[Projection description]
 With inverted Y

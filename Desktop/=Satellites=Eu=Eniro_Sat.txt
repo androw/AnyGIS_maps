@@ -13,5 +13,5 @@ http://map0{s}.eniro.no/geowebcache/service/tms1.0.0/aerial/{z}/{x}/{-y}.jpeg
 [Max Zoom level]
 22
 
-[Proection description]
+[Projection description]
 With inverted Y

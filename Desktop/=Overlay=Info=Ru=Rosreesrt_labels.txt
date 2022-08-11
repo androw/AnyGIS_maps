@@ -13,5 +13,5 @@ https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{z}/{
 [HTTP Referer]
 https://pkk.rosreestr.ru
 
-[Proection description]
+[Projection description]
 With inverted Y

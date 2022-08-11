@@ -10,5 +10,5 @@ https://tiles.nakarte.me/new_gsh_050k/{z}/{x}/{-y}
 [Max Zoom level]
 15
 
-[Proection description]
+[Projection description]
 With inverted Y

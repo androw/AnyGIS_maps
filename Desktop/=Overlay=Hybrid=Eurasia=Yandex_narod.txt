@@ -16,5 +16,5 @@ https://0{s}.core-nmaps-renderer-nmaps.maps.yandex.net/tile?x={x}&y={y}&z={z}&l=
 [HTTP Referer]
 https://n.maps.yandex.ru/
 
-[Proection description]
+[Projection description]
 Ellipsoid

@@ -10,5 +10,5 @@ http://nz1.nztopomaps.com/{z}/{x}/{-y}.png
 [Max Zoom level]
 15
 
-[Proection description]
+[Projection description]
 With inverted Y

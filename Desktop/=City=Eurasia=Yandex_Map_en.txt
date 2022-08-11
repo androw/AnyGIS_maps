@@ -19,5 +19,5 @@ https://vec0{s}.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}&scale=2&lang=en-EN
 [HTTP Referer]
 https://yandex.ru/maps/
 
-[Proection description]
+[Projection description]
 Ellipsoid

@@ -16,5 +16,5 @@ https://tms{s}.visicom.ua/2.0.0/planet3/base/{z}/{x}/{-y}.png
 [HTTP Referer]
 https://maps.visicom.ua/
 
-[Proection description]
+[Projection description]
 With inverted Y

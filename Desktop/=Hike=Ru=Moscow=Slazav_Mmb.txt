@@ -10,5 +10,5 @@ https://tiles.nakarte.me/map_podm/{z}/{x}/{-y}
 [Max Zoom level]
 14
 
-[Proection description]
+[Projection description]
 With inverted Y

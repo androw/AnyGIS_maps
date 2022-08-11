@@ -10,5 +10,5 @@ https://tiles.nakarte.me/ggc500/{z}/{x}/{-y}
 [Max Zoom level]
 14
 
-[Proection description]
+[Projection description]
 With inverted Y

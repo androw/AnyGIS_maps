@@ -10,5 +10,5 @@ https://tiles.nakarte.me/ArbaletMO/{z}/{x}/{-y}
 [Max Zoom level]
 13
 
-[Proection description]
+[Projection description]
 With inverted Y

@@ -10,5 +10,5 @@ https://tiles.nakarte.me/ggc2000/{z}/{x}/{-y}
 [Max Zoom level]
 12
 
-[Proection description]
+[Projection description]
 With inverted Y
