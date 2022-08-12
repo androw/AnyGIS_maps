@@ -1,0 +1,11 @@
+[Name]
+Overlay - Relief - Overpass - MapSurfer
+
+[URL direct]
+https://maps.heigit.org/openmapsurfer/tiles/asterh/webmercator/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+14

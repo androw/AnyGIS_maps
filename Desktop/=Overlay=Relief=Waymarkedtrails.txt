@@ -1,0 +1,11 @@
+[Name]
+Overlay - Relief - Waymarkedtrails
+
+[URL direct]
+https://hillshading.waymarkedtrails.org/srtm/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

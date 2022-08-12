@@ -1,0 +1,11 @@
+[Name]
+Overlay - Relief - Eu - Norway - UtNo - Bratthetskart
+
+[URL direct]
+https://gis3.nve.no/arcgis/rest/services/wmts/Bratthet/MapServer/tile/{z}/{y}/{x}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

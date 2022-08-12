@@ -1,0 +1,11 @@
+[Name]
+Overlay - Relief - Eu - Norway - UtNo - SkredSnoAktR
+
+[URL direct]
+https://gis3.nve.no/map/rest/services/SkredSnoAktR/MapServer/export?dpi=96&transparent=true&format=png8&layers=show:0,1,2&bbox={bbox}&bboxSR=3857&imageSR=3857&size=512,512&f=image 
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19
