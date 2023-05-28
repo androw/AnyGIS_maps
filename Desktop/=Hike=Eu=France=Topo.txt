@@ -8,4 +8,4 @@ https://wxs.ign.fr/essentiels/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.PLAN
 6
 
 [Max Zoom level]
-16
+19
