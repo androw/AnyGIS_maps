@@ -5,7 +5,7 @@ https://wxs.ign.fr/essentiels/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.PLAN
 [min_zoom]
 6
 [max_zoom]
-16
+19
 [ellipsoid]
 false
 [inverted_y]
