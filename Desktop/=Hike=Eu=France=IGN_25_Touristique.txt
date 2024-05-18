@@ -1,0 +1,11 @@
+[Name]
+Hike - Ign.fr 25 Touristique
+
+[URL direct]
+https://data.geopf.fr/private/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR&style=normal&dpiMode=7&tileMatrixSet=PM&&tilePixelRatio=0&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}&apikey=ign_scan_ws
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19
