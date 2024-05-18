@@ -1,9 +1,9 @@
 [url_template]
-https://wxs.ign.fr/essentiels/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix={0}&TileCol={1}&TileRow={2}
+https://data.geopf.fr/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix={0}&TileCol={1}&TileRow={2}
 [randoms]
 
 [min_zoom]
-6
+0
 [max_zoom]
 19
 [ellipsoid]
