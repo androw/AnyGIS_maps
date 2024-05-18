@@ -1,5 +1,5 @@
 [Name]
-Hike - Ign.fr Topo
+Hike - Ign.fr Plan
 
 [URL direct]
 https://data.geopf.fr/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix={z}&TileCol={x}&TileRow={y}
